@@ -1,2 +1,2 @@
 # lanes_detection
-Finding Lane lines.
+Apply some basic computer vision techniques to find lane markings on the road.
