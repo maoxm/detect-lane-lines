@@ -1,2 +1,2 @@
-# lanes_detection
-Apply some basic computer vision techniques to find lane markings on the road.
+# Detect Lane Lines
+Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
